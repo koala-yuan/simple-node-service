@@ -29,7 +29,7 @@ npm run build
 ##### 启动
 
 1. 打开setupBackend.sh文件，替换PROXY_BASE env（从lens上forward kong-svc到本地）
-2. 运行 ``bash setupBackend.sh ``
+2. 运行 ``bash setupBackend.sh``
 
 
 
